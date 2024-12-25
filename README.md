@@ -1,4 +1,4 @@
-# Medical Portal  
+![image](https://github.com/user-attachments/assets/954a6f7b-66e6-4efd-8bea-570e17cdc75b)# Medical Portal  
 
 **Author:** Absatar Abzal  
 **Group:** SE-2308  
@@ -46,3 +46,6 @@
 - **HTML, CSS**  
 - **JavaScript:** 
 - **REST API:** for server communication  
+
+###Screenshots
+![image](./![image](https://github.com/user-attachments/assets/c2206083-8113-407f-a1e5-7314890c7f04)
