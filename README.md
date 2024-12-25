@@ -47,5 +47,6 @@
 - **JavaScript:** 
 - **REST API:** for server communication  
 
-###Screenshots
-![image](./![image](https://github.com/user-attachments/assets/c2206083-8113-407f-a1e5-7314890c7f04)
+### Screenshots
+![2024-12-25_16-12-48](https://github.com/user-attachments/assets/05e38017-1f8f-4c47-80d8-c8fad6bdf677)
+
