@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/954a6f7b-66e6-4efd-8bea-570e17cdc75b)# Medical Portal  
+# Medical Portal  
 
 **Author:** Absatar Abzal  
 **Group:** SE-2308  
