@@ -1,38 +1,48 @@
-#README
-Medical Portal
-Автор: Absatar Abzal
-Группа: SE-2308
-Название проекта: Medical Portal
+# Medical Portal  
 
-Описание проекта
-Medical Portal — это веб-приложение для управления медицинскими данными. Оно предоставляет пользователям возможность:
+**Author:** Absatar Abzal  
+**Group:** SE-2308  
+**Project Name:** Medical Portal  
 
-Регистрации и авторизации в системе.
-Записи на прием к врачу.
-Управления профилем пациента и врача.
-Поиска врачей по специализации.
-Учет посещений и предоставление отзывов.
-Функционал
-Для пациентов:
-Создание профиля.
-Просмотр списка врачей и их расписания.
-Запись на прием.
-Просмотр истории записей.
-Для врачей:
-Управление своим профилем (специализация, биография, расписание).
-Просмотр записей пациентов.
-Управление отзывами и рейтингом.
-Используемые технологии
-Backend:
+---
 
-Язык: Go
-База данных: PostgreSQL
-Основные библиотеки:
-database/sql
-github.com/lib/pq
-Паттерн архитектуры: MVC
-Frontend:
+## Project Description  
+**Medical Portal** is a web application designed for managing medical data. It provides users with the following features:  
 
-HTML, CSS
-JavaScript (отдельный файл scr.js)
-REST API для связи с сервером
+- Registration and authentication in the system.  
+- Booking appointments with doctors.  
+- Managing patient and doctor profiles.  
+- Searching for doctors by specialization.  
+- Tracking appointments and submitting reviews.  
+
+---
+
+## Features  
+
+### For Patients:  
+- Creating a personal profile.  
+- Viewing the list of doctors and their schedules.  
+- Booking appointments.  
+- Viewing appointment history.  
+
+### For Doctors:  
+- Managing their profile (specialization, biography, schedule).  
+- Viewing patient appointments.  
+- Managing reviews and ratings.  
+
+---
+
+## Technologies Used  
+
+### Backend:  
+- **Language:** Go  
+- **Database:** PostgreSQL  
+- **Main Libraries:**  
+  - `database/sql`  
+  - `github.com/lib/pq`  
+- **Architecture Pattern:** MVC  
+
+### Frontend:  
+- **HTML, CSS**  
+- **JavaScript:** 
+- **REST API:** for server communication  
